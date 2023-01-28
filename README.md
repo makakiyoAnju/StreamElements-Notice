@@ -1,5 +1,5 @@
 # StreamElements Notice
-This is just an explanation of StreamElements overlay widget limitation and known issues/bugs
+The information below are just more in-depth details about what's going on and can't be done about it no matter what I do. 
 
 ### Limitation
 - Most of Twitch slash (/) command won't show due to StreamElement API not retrieving it except "/me"
